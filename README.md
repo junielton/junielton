@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/junielton)
 [![Website](https://img.shields.io/badge/junielton.dev-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://junielton.dev)
 
-Full Stack Developer — Remote at **By the Pixel, LLC** (Denver, CO) · Working in English daily  
+Full Stack Developer. 
 Building web applications and integrations for SaaS and industrial environments.  
 Previous work includes WebSocket/MQTT interfaces connected to warehouse hardware  
 and legacy migration (Angular 1 → Vue.js 3) on manufacturing ERP/WMS systems.
